@@ -71,7 +71,7 @@ Running the Client
 
     ./cliently SERVER_HOSTNAME --debug
 
-  Replace dkserver with the server’s IP (e.g., xxx.xxx.x.xxx) if needed.
+  Replace UserServer with the server’s IP (e.g., xxx.xxx.x.xxx) if needed.
   Output:
 
         Network Layer Started
