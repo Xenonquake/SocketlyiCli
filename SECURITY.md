@@ -75,7 +75,7 @@ Recommendations for Safe Use
   Debug Mode: Leverage --debug to monitor behavior during experiments:
 
     ./socketly --debug
-    ./cliently dkserver --debug
+    ./cliently USER_SERVER --debug
 
   Avoid Production: Do not deploy this in a production environment without significant hardening (authentication, encryption, input validation).
 
